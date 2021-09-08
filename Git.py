@@ -1,2 +1,2 @@
-x = 100
-print("x es igual a",x)
+x = 50
+print(x)
